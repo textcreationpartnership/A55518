@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A postscript of advice from Geneva to be added to each of Mr. Care's several volumes of Advice from Rome.</title>
+            <author>Ignoramus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55518</idno>
+            <idno type="STC">Wing P3024</idno>
+            <idno type="STC">ESTC P144</idno>
+            <idno type="EEBO-CITATION">12066209</idno>
+            <idno type="OCLC">ocm 12066209</idno>
+            <idno type="VID">53356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53356)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 819:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A postscript of advice from Geneva to be added to each of Mr. Care's several volumes of Advice from Rome.</title>
+                  <author>Ignoramus.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1678?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from BM.</note>
+                  <note>Signed: Ignoramus.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Care, Henry, 1646-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:53356:1"/>
+            <pb n="1" facs="tcp:53356:1"/>
+            <head>A POSTSCRIPT OF Advice from GENEVA, To be added to each of Mr. <hi>Care</hi>'s ſeveral Volumes of <hi>Advice from</hi> Rome.</head>
+            <epigraph>
+               <q>
+                  <hi>Hanc maximam ſeu regulam habent</hi> Calviniſtae <hi>licere pro gloria</hi> Chriſti <hi>mentiri,</hi> Oſiander in Epit. &amp;c. <bibl>Cen<g ref="char:EOLhyphen"/>tur. pag. 796.</bibl>
+               </q>
+            </epigraph>
+            <p>TO go along with Mr. <hi>Care</hi> in his Method and Deſign of expoſing the <hi>Papists,</hi> I think it will be but a very neceſſary and equal piece of Juſtice, to give the world an Abſtract or ſhort view of the Lives, Deaths and Doctrines of ſome of the firſt and principal Reformers of the <hi>Calvinian</hi> or <hi>Puritan</hi> Sect; In the doing whereof, I ſhall purpoſely avoid the Teſtimony of any <hi>Popiſh Author,</hi> and make uſe of others of great Reputation for Learning and In<g ref="char:EOLhyphen"/>tegrity: To begin then with Mr. <hi>John Calvin,</hi> as the principal Eſtabliſher of that <hi>Reformation</hi> in <hi>Geneva,</hi> and ſeveral other places (though the ſame had been ſet on foot before by <hi>Zwinglius,</hi> who was ſlain in the Sedi<g ref="char:EOLhyphen"/>tion occaſioned by his Doctrine in thoſe of <hi>Tigure</hi> and <hi>Berne,</hi> againſt <hi>Rhodolf</hi> King of the <hi>Romans,</hi> as <hi>Gualter</hi> confeſſeth in <hi>Apologia pro</hi> Zuinglio, <hi>&amp; operibus ejus.</hi>)
+<pb n="2" facs="tcp:53356:2"/>
+The Life and Death of <hi>John Calvin</hi> was writ by <hi>Hierom Bolſeco,</hi> Doctor of Phyſick, who lived in <hi>Geneva</hi> with him; and in the beginning of his Book printed <hi>Anno</hi> 1577. he makes this ſolemn Proteſtation: [<hi>I am here, for the ſake of Truth, to refute</hi> Theodor Beza<hi>'s falſe and ſhameleſs Lies in the praiſe of</hi> Calvin; <hi>proteſting before God, and the holy Court of Heaven, before all the world, and the Holy Ghoſt it ſelf, that neither Anger, nor Envy, nor Evil-will, hath made me ſpeak or write any one thing againſt the truth of my conſcience.</hi> But in regard that (upon the ſcandal he took at the manner of <hi>Calvin</hi>'s life) he afterwards became a Catholick, I ſhall rather chooſe to preſent the Reader with a ſhort draught of it, in the words of <hi>Conradus Schuſſelburgh,</hi> a man of principal eſti<g ref="char:EOLhyphen"/>mation in the Proteſtant Church, and no leſs enemy to the Pope than was <hi>Calvin;</hi> who in his <hi>Theologia Calvi<g ref="char:EOLhyphen"/>niſtarum,</hi> lib. 2. fol. 7. writes thus: <hi>God in the Rod of his Fury viſiting</hi> Calvin, <hi>did horribly puniſh him before the fearful hour of his unhappy death; for he ſo ſtruck this He<g ref="char:EOLhyphen"/>retick</hi> (ſo he termeth him, in regard of his conceived Doctrine concerning the <hi>Sacrament,</hi> and God's being the Author of Sin) <hi>with his mighty Hand, that being in deſpair, and calling upon the Devil, he gave up his wicked Soul, Swearing, Curſing and Blaſpheming; He died upon the Diſeaſe of Lice, and Worms, increaſing in a most loath<g ref="char:EOLhyphen"/>ſom <g ref="char:V">Ʋ</g>lcer about his Privy-parts, ſo as none preſent could endure the ſtench.</hi> Theſe things are objected to <hi>Calvin</hi> by publick writing; In which alſo horrible things are declared concerning his Laſciviouſneſs, his ſundry abo<g ref="char:EOLhyphen"/>minable Vices, and <hi>Sodomical Lusts,</hi> for which laſt he was by the Magiſtrate at <hi>Noyon</hi> (under whom he lived) branded on the ſhoulder with a hot burning Iron. Thus far writes <hi>Schuſſelburgh</hi> of <hi>Calvin.</hi> Now as concerning <hi>Theodor Beza,</hi> another principal Reformer of that Sect, though his life be likewiſe written by Dr. <hi>Bolſeke,</hi> and
+<pb n="3" facs="tcp:53356:2"/>
+his Book dedicated to the Magiſtrates of <hi>Geneva,</hi> wherein he chargeth him with many great and hainous Imputations, beſt known to themſelves; and that even in <hi>Beza</hi>'s life-time, purpoſely (as he ſays) he might be able to anſwer for himſelf; Yet I ſhall wave his Teſti<g ref="char:EOLhyphen"/>mony, further than confirmed by other learned <hi>Prote<g ref="char:EOLhyphen"/>ſtants,</hi> as <hi>Conradus, Schuſſelburgh,</hi> and <hi>Tilmannus, Heſhu<g ref="char:EOLhyphen"/>ſius,</hi> who charge him with writing thoſe obſcene and licentious Poems of his <hi>Candida &amp; Andebertus;</hi> in which he debateth whether ſin he may prefer; and in the end, concludeth with preferring the Boy before his <hi>Candida; Orbi notum eſt quam ſalax fuit</hi> Beza <hi>qui pub<g ref="char:EOLhyphen"/>licatis poematibus paidaſtrias ſuas celebrare non erubuit,</hi> Galliae <hi>probrum, ſimoniacus, ſodomita, omnibus vitiis co<g ref="char:EOLhyphen"/>opertus.</hi> As for <hi>John Bale, Peter Martyr,</hi> and <hi>Bucer,</hi> with others of that Reformation, they began with the breach of their ſolemn Vows of Obedience and Chaſtity, flying from their Monaſteries, and marrying vow'd Nuns; And as to other their enormous Actions and Doctrines, I ſhall refer you to the two Books of dange<g ref="char:EOLhyphen"/>rous Poſitions, and a ſurvey of the pretended Holy Diſcipline, writ by Dr. <hi>Bancroft</hi> Archbiſhop of <hi>Canter<g ref="char:EOLhyphen"/>bury,</hi> and to Dr. <hi>Sutcliff</hi> his Anſwer to a Libel ſupplica<g ref="char:EOLhyphen"/>tory, out of whom I ſhall only preſent you with ſome few of their Doctrines, <hi>viz.</hi>
+            </p>
+            <p n="1">I. <hi>That Temporal Princes may not by Gods Law have Supreme Authority in the Church, or Eccleſiaſtical mat<g ref="char:EOLhyphen"/>ters, but only their</hi> Presbytery.</p>
+            <p n="2">II. <hi>That the People have the ſame power to puniſh, put down and deſtroy Princes that offend, that Kings and Princes have over any particular man.</hi>
+            </p>
+            <p n="3">III. <hi>That the Miniſters of the</hi> Presbytery <hi>choſen by them<g ref="char:EOLhyphen"/>ſelves, may Excommunicate, Arraign and Depoſe their Prince, when they ſee him govern amiſs.</hi>
+            </p>
+            <p n="4">IV. <hi>That the Miniſters (with the People) may require
+<pb n="4" facs="tcp:53356:3"/>
+of the King to have true Preachers; And if he be negligent, they may provide themſelves, and may maintain and defend them againſt him, and all others, and curb the King in his Exceſſes, where need is.</hi>
+            </p>
+            <p n="5">V. <hi>That the whole Eccleſiaſtical Government of the</hi> Pro<g ref="char:EOLhyphen"/>teſtant Church <hi>now in</hi> England, (to wit) <hi>by</hi> Biſhops, Archdeacons, Deans, <hi>and the like, is unlawful, wicked and Antichriſtian; whereof enſueth, that all Miniſters ordai<g ref="char:EOLhyphen"/>ned by them, are unlawful, and all their actions are only actions of meer Lay-men; and conſequently, That they have no lawful publick Miniſtry at all.</hi>
+            </p>
+            <p n="6">VI. <hi>That all Ministers ordained by the Authority of the</hi> Biſhops, <hi>and coming afterwards to be of the</hi> Puritan Sect, <hi>must renounce before the</hi> Presbytery <hi>and</hi> Claſſes, <hi>his for<g ref="char:EOLhyphen"/>mer Vocation and Ordination, and take another by their Allowance, and Impoſition of Hands.</hi>
+            </p>
+            <p n="7">VII. <hi>That the</hi> Parliament <hi>of</hi> England <hi>hath no Autho<g ref="char:EOLhyphen"/>rity to meddle in matters of</hi> Religion, <hi>nor to determine wha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Religion is to be admitted, or not; but only this belong<g ref="char:EOLhyphen"/>eth to their</hi> Presbytery <hi>of</hi> Miniſters.</p>
+            <p n="8">VIII. <hi>That they only are the true Church of God that be of this</hi> Presbytery, <hi>and all other to be damn'd that are not of it.</hi>
+            </p>
+            <p>For the horrid effects and conſequences of theſe Do<g ref="char:EOLhyphen"/>ctrines, we need not go to look for them into other Coun<g ref="char:EOLhyphen"/>tries, tho' all Modern Hiſtories yield plentiful Examples; our own Kingdom of <hi>England</hi> affords us too late and direful Remembrances of them, and the barbarous Mur<g ref="char:EOLhyphen"/>ther of the beſt of Kings occaſioned thereby, will never be forgotten; Nor do I think that any <hi>Sect,</hi> no not that of the <hi>Circumcellians</hi> themſelves, ſo terrible in old time, and namely to <hi>St. Auguſtine,</hi> either is, or can be thought ſo perillous or pernicious to Kingdoms or Common<g ref="char:EOLhyphen"/>wealths, as is this of the <hi>Puritans,</hi> where they may have Power.</p>
+            <p>
+               <pb n="5" facs="tcp:53356:3"/>Now, for a Concluſion, inſtead of a <hi>Courant,</hi> I ſhall give the Reader a ſhort view of the great change in the general morality of Chriſtians, occaſioned by the Do<g ref="char:EOLhyphen"/>ctrine and Practices of theſe pretended <hi>Zealous Refor<g ref="char:EOLhyphen"/>mers,</hi> in the very words of their Brethren abroad; as <hi>Luther, Calvin, Melancton, Brutius, Bucer, Eberus, Wi<g ref="char:EOLhyphen"/>gandus,</hi> and divers others; and at home, of Mr. <hi>Jeffrey</hi> and Mr. <hi>Stubbs,</hi> and the <hi>Puritans mild Defence,</hi> faith<g ref="char:EOLhyphen"/>fully extracted out of the <hi>Treatiſe of the Protestant pri<g ref="char:EOLhyphen"/>vate Spirit,</hi> chap. 9. §. 8. ſubdiviſ. 4. <hi>viz. <g ref="char:V">Ʋ</g>nder the</hi> Pa<g ref="char:EOLhyphen"/>pacy <hi>men were Religious, and given to the practice of good works; but that the Profeſſors of your Goſpel, relying on their Juſtification by only Faith, are become careleſs of good works, diſſolute, proud, envious, malicious, diſdainful, co<g ref="char:EOLhyphen"/>vetous, ambitious, that your eyes ought to guſh out with tears, to behold the miſery of your ſuppoſed Church, the great Ig<g ref="char:EOLhyphen"/>norance, the ſuperficial Worſhip of God, the fearful Blaſphe<g ref="char:EOLhyphen"/>mies and Swearing in houſes and ſtreets, the diſhonour of Superiours, the Pride, Cruelty, Fornications, Adulteries, Drunkenneſs, Covetouſneſs, <g ref="char:V">Ʋ</g>ſuries, ond other like Abomi<g ref="char:EOLhyphen"/>nations; that Youth amongst you becomes daily leſs tracta<g ref="char:EOLhyphen"/>ble, and more bold to commit thoſe Vices, which in former times men of years knew not; That instead of Faſting, you have brought in Bibbing and Banqueting, and inſtead of Praying, Swearing; And finally, that you equal the</hi> Jews <hi>in Hypocriſie, the</hi> Turks <hi>in Impiety, and the</hi> Tartars <hi>in Iniquity; And laſtly, your learned Brother</hi> Eberus, <hi>in his</hi> Praefat. Coment. Philip. in Ep. ad Cor. <hi>ſticketh not to ſay,</hi> That in regard of the enormous wickedneſs of your Miniſtry and Church, any man may juſtly doubt whether you are the true Church.</p>
+            <p>Whoever deſires to ſee more ſtuff of this nature, may peruſe a Book entituled <hi>Paſquil of</hi> England <hi>unto</hi> Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tin <hi>junior;</hi> or the other of <hi>Paſquil and Marphorius;</hi> and Dr. <hi>Sutcliff</hi>'s Anſwer to a <hi>Libel ſupplicatory;</hi> from which,
+<pb n="6" facs="tcp:53356:4"/>
+and ſeveral other Authors of that kind, the ingenious Reader may eaſily collect how obvious and facile it is for any party to recriminate, by raking in the Dunghil of perſonal errours and defects of former ages, and ex<g ref="char:EOLhyphen"/>poſing all he finds, without regard either to the credit of Authors, or falſity of their Aſſertions, often contra<g ref="char:EOLhyphen"/>dicted by others of the ſame times, of much better eſteem and reputation; and what ſcandal muſt neceſſarily fol<g ref="char:EOLhyphen"/>low thereupon to all Chriſtians, even to the introducing of Atheiſm and Infidelity, as it happened on the like oc<g ref="char:EOLhyphen"/>caſion to <hi>David George,</hi> Profeſſor at <hi>Bazil; Bernardine Ochine,</hi> a man highly commended by <hi>Calvin; Neuſerus,</hi> chief Paſtor of <hi>Heidelburgh; Almanus,</hi> a <hi>Zwinglian,</hi> and ſome others, who out of hatred to <hi>Popery,</hi> and ſcan<g ref="char:EOLhyphen"/>dal taken at the Lives and Doctrines of their own fellow Reformers, renounced Chriſtianity, and became <hi>Jews,</hi> as you may ſee in <hi>Schuſſelburgh</hi> his <hi>Thelogia</hi> Calv. <hi>&amp;</hi> Oſi<g ref="char:EOLhyphen"/>ander <hi>Cent.</hi> 16. From conſideration of the great miſchiefs and ill conſequences of this way of expoſing, (as Mr. <hi>Care</hi> is pleaſed to phraſe it) he, or whoever elſe is the Au<g ref="char:EOLhyphen"/>thor of <hi>The Weekly Pacquet of Advice from</hi> Rome, may eaſily conclude what fruit or advantage he is like to reap from his laborious Collections, more than the loſs of his time, and the expoſing to the world his own malice and folly, for,
+<q>Turpe eſt Doctori cum culpa redarguit ipſum.</q>
+            </p>
+            <div type="part">
+               <pb n="7" facs="tcp:53356:4"/>
+               <head>SOME QUERIES For Mr. <hi>CARE</hi> to Chew, Relating to His <hi>Ignoramus-Iuries,</hi>
+               </head>
+               <p n="1">I WHether or no <hi>Magna Charta,</hi> and the reſt of our Laws, are more careful in preſerving the Life and Reputa<g ref="char:EOLhyphen"/>tion of the King, or of the Subject? If of the former,</p>
+               <p n="2">II. Whether ſome men now in power muſt not think the Law-makers <hi>Fools,</hi> or acknowledge themſelves <hi>Knaves?</hi>
+               </p>
+               <p n="3">III. Whether if an Inſurance-Office for Commonwealth-ma<g ref="char:EOLhyphen"/>lefactors were ſet up, the City ſecurity would not be the beſt?</p>
+               <p n="4">IV. Whether the Money that us'd to be ſpent in Hoſpitality by City-Magiſtrates, might not be laid out more to the Ho<g ref="char:EOLhyphen"/>nour of the City, in rewarding <hi>True-Proteſtant-Evidences</hi> and <hi>Ignoramus-Juries?</hi>
+               </p>
+               <p n="5">V. Whether ſome late Officers did not forbid Wine at their Tables, leſt their Friends drinking too much ſhould tell truth?</p>
+               <p n="6">VI. Whether a Perjur'd Pillory<g ref="char:punc">▪</g>d Thief, Begger, Fool or Knave, be not as good Evidence againſt a <hi>Whig,</hi> as againſt a <hi>Papist?</hi>
+               </p>
+               <p n="7">VII. Whether, had it not been for People ſo qualified, we had ever known of a <hi>Popiſh-Plot?</hi>
+               </p>
+               <p n="8">VIII. Whether if the laſt Long <hi>Parliament</hi> had ſate this time, we had ever been bleſs'd with <hi>Narratives, Ignoramus-Juries,</hi> or <hi>True-Protestant-Informations?</hi>
+               </p>
+               <p n="9">IX. Whether if the ſame <hi>Evidence</hi> ſhould ſwear the ſame things againſt the <hi>Pope,</hi> and againſt a <hi>True-Protestant-Peer,</hi> a <hi>Jury</hi> (by care and induſtry) might not be pack'd, to ſave his Holineſs, rather than loſe a Friend?</p>
+               <p n="10">
+                  <pb n="8" facs="tcp:53356:5" rendition="simple:additions"/>X. Whether when <hi>Hell broke looſe by Heavens permiſſion, upon this Proteſtant City</hi> the Devil did not employ the <hi>Whigs</hi> as well as the <hi>Papiſts?</hi> Or,</p>
+               <p n="11">XI. Whether he did not reſerve the former for greater pur<g ref="char:EOLhyphen"/>poſes, <hi>viz.</hi> to blow up the ſparks of <hi>Rebellion,</hi> and ſerve on <hi>Juries?</hi>
+               </p>
+               <p n="12">XII. Whether if an Highway-man was to be tryed by <hi>a Jury of his own Gang,</hi> they would not act more like brute Beaſts than rational Creatures, if they found the Bill?</p>
+               <p n="13">XIII. Whether there is not juſt ground for ſuſpicion of Guilt in the <hi>Priſoner,</hi> when his Friends are forc'd to pick up Jury-men (contrary to cuſtom) from one end of the Town to the other?</p>
+               <p n="14">XIV. Whether he that made a Scandalous and Seditious Speech (to ſay no worſe of it) publickly in the Houſe of <hi>Peers,</hi> may not be ſuppoſed to ſpeak Treaſon privately?</p>
+               <p n="15">XV. Whether ſome people who deſerve not, yet are ſorry they have a Juſt and Merciful Prince?</p>
+               <p n="16">XVI. Whether if an Angel from Heaven ſhould deſcend, and teſtifie a Deſign by the <hi>Fanaticks</hi> againſt the Government, this Scripture ſhould not be brought to invalidate his Evidence; <hi>Stand faſt in the Liberty whereunto ye are called?</hi>
+               </p>
+               <p n="17">XVII. Whether <hi>the ſame Jury</hi> would not (upon the Devils Teſtimony) find a Bill againſt another ſort of People?</p>
+               <p n="18">XVIII. Whether a <hi>True Proteſtant</hi> believes <hi>Perjury</hi> to be a Sin?</p>
+               <p n="19">XIX. Whether if the Indictment againſt ſome late Criminals had been found, and they Executed for the Treaſon therein contained, <hi>(viz. Conspiring the Death of the King)</hi> a <hi>Vote</hi> of a late <hi>Houſe of Commons</hi> had not been violated, wherein 'tis reſolved, <hi>That if the King come to any unnatural Death, they will Revenge it on the Papiſts?</hi>
+               </p>
+               <p n="20">XX. Who is the Author of theſe <hi>Queries?</hi>
+               </p>
+               <closer>
+                  <signed>Ignoramus.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
